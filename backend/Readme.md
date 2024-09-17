@@ -1,0 +1,1 @@
+start backend project = npm run start
